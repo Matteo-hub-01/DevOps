@@ -3,30 +3,3 @@ def multiplication(valeur, multiplicateur):
 
 print(multiplication(2,5))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
